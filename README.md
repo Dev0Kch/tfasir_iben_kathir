@@ -5,6 +5,6 @@
 مثال :
 
 
-https://dev0kch.github.io/tfasir_iben_kathir/114
+https://dev0kch.github.io/tfasir_iben_kathir/114.json
 
 114 = النَّاس
